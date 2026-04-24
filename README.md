@@ -1,0 +1,2 @@
+# uav-iot-data-collection
+NghiêncứuvàtriểnkhaihệthốngUAVhỗtrợthuthậpdữ liệutrongmạngIoTsửdụngthuậttoánDoubleDeepQ-Networkđểtối ưuquỹđạobay3D
